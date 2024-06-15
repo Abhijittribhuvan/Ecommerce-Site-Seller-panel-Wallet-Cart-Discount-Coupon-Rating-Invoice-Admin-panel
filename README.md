@@ -6,7 +6,7 @@
 # Ecommerce Site [https://gaintree.great-site.net]
 # Ecommerce Admin Panel [https://gaintree.great-site.net/gaintree/emart]
 
-Admin email : technex@gmail.com
+Admin email : technex@gmail.com                                                                                     
 Admin password : technex123
 
 Features :-
