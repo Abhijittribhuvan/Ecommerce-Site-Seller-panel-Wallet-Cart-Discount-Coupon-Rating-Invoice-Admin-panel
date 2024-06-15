@@ -3,7 +3,7 @@
 
 # Ecommerce
 
-# Ecommerce Site [https://gaintrees.com]
+# Ecommerce Site [https://gaintrees.com/home/]
 # Ecommerce Admin Panel [https://gaintrees.com/gaintree/emart]
 
 Features :-
