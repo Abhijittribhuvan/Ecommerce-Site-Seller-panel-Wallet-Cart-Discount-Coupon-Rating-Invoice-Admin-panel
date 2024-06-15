@@ -3,8 +3,11 @@
 
 # Ecommerce
 
-# Ecommerce Site [https://gaintrees.com/home/]
-# Ecommerce Admin Panel [https://gaintrees.com/gaintree/emart]
+# Ecommerce Site [https://gaintree.great-site.net]
+# Ecommerce Admin Panel [https://gaintree.great-site.net/gaintree/emart]
+
+Admin email : technex@gmail.com
+Admin password : technex123
 
 Features :-
 
